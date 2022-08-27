@@ -1,0 +1,25 @@
+{
+  "name": "topic-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "discord.js": "^13.10.3",
+    "dotenv": "^16.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r47orr/topic-bot.git"
+  },
+  "keywords": [],
+  "author": "r47orr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r47orr/topic-bot/issues"
+  },
+  "homepage": "https://github.com/r47orr/topic-bot#readme"
+}

@@ -1,0 +1,13 @@
+{
+    "client": {
+        "id": ""
+    },
+    "guild": {
+        "id": ""
+    },
+    "activity": {
+        "name": "tópicos dos canais 👀",
+        "type": "WATCHING",
+        "status": "online"
+    }
+}
